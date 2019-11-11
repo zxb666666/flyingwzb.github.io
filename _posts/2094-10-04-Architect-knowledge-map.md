@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      架构师知识图谱
+title:      朱绪博
 subtitle:   收集整理规划架构师成长路径上需要提升的技能
 date:       2094-10-04
-author:     Will Wang
+author:     Will zhu
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
