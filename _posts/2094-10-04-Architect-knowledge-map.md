@@ -7,8 +7,8 @@ author:     Will zhu
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
-    - 架构师
-    - 知识图谱
+    - 朱绪博 
+    - 小兄弟会
 ---
 
 <h1>《后端架构师技术图谱》</h1>
